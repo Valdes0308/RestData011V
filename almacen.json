@@ -1,0 +1,40 @@
+{
+  "mascotas": [
+    {
+      "id": "2",
+      "nombre": "Bigui",
+      "tipo": "Perro",
+      "color": "Blanco"
+    },
+    {
+      "id": "3",
+      "nombre": "Pegui",
+      "tipo": "Perro",
+      "color": "Cafe"
+    },
+    {
+      "id": "58df",
+      "nombre": "Macha",
+      "tipo": "Gato",
+      "color": "Blanco"
+    },
+    {
+      "id": "b5a1",
+      "nombre": "Jose",
+      "tipo": "Perro",
+      "color": "Negro"
+    }
+  ],
+  "usuarios": [
+    {
+      "id":"1",
+      "username":"usuario1",
+      "password":"duoc1234",
+      "email":"usuario1@mail.cl",
+      "isactive": true
+    }
+  ],
+  "qr":[
+
+  ]
+}
